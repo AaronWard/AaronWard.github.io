@@ -1,2 +1,3 @@
 # AaronWard.github.io
-x
+
+A personal website built to showcase my experience and projects.
